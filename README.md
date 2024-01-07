@@ -23,7 +23,7 @@ Most tweaks may not be reccomended in high end computers but feel free to try, i
 This application works on both Windows 10 and 11, I have not tested it in lower versions, and i do **NOT** recommend using it on them, as it may cause damage to the system when tweaking Regedit.
 Even though all my regedit tweaks are harmless, I do not want any chance of damage to your system, so don't come crying to me if your Windows Vista got problems after using it.
 
-**Warning: For the app to run, you NEED to have a connection to the internet.**
+**Warning: For the app to run, you NEED to have a connection to the internet and disable anti virus.**
 
 ### ✨ Features <a name = "features"></a>
 - Debloater (Remove unnecessary features)
